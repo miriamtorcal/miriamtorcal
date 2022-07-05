@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavilla Jr.</h1>
+<h1 align="center">Hi 👋, I'm Miriam </h1>
 <h3 align="center">Currently I am student at Universidad de Burgos in Spain and a development web worker </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtc1003&label=Profile%20views&color=green&style=flat" alt="mtc1003" /> </p> 

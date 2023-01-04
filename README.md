@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miriamtorcal&label=Profile%20views&color=green&style=flat" alt="miriamtorcal" /> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtc1003" alt="mtc1003" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miriamtorcal" alt="miriamtorcal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/miriroa99" target="blank"><img src="https://img.shields.io/twitter/follow/miriroa99?logo=twitter&style=for-the-badge" alt="miriroa99" /></a> </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miriam </h1>
 <h3 align="center">Currently I am a development web worker </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtc1003&label=Profile%20views&color=green&style=flat" alt="mtc1003" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miriamtorcal&label=Profile%20views&color=green&style=flat" alt="miriamtorcal" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtc1003" alt="mtc1003" /></a> </p>
 
@@ -23,11 +23,11 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtc1003&show_icons=true&locale=en&layout=compact" alt="mtc1003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miriamtorcal&show_icons=true&locale=en&layout=compact" alt="miriamtorcal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtc1003&show_icons=true&locale=en" alt="mtc1003" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miriamtorcal&show_icons=true&locale=en" alt="miriamtorcal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtc1003&" alt="mtc1003" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miriamtorcal&" alt="miriamtorcal" /></p>
 
 
 It's dangerous to go alone take Copilot :D

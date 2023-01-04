@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miriam </h1>
-<h3 align="center">Currently I am student at Universidad de Burgos in Spain and a development web worker </h3>
+<h3 align="center">Currently I am a development web worker </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtc1003&label=Profile%20views&color=green&style=flat" alt="mtc1003" /> </p> 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/miriroa99" target="blank"><img src="https://img.shields.io/twitter/follow/miriroa99?logo=twitter&style=for-the-badge" alt="miriroa99" /></a> </p>
 
-- 🔭 I’m currently working on [Object Detection in Edge Computing Devices](https://github.com/mtc1003/TF_Keras_TFG)
+<!-- - 🔭 I’m currently working on [Object Detection in Edge Computing Devices](https://github.com/mtc1003/TF_Keras_TFG) </!-->
 
 - 🌱 I’m currently learning **Web Design,NO-SQL,etc.**
 

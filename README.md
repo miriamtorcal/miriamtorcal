@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miriam </h1>
-<h3 align="center">Currently I am a development web worker </h3>
+<h3 align="center">Currently I am Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miriamtorcal&label=Profile%20views&color=green&style=flat" alt="miriamtorcal" /> </p> 
 

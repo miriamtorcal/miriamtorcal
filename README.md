@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miriam </h1>
-<h3 align="center">Currently I am Web Developer</h3>
+<h3 align="center">Currently I am Software FullStack Developer and Big Data Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miriamtorcal&label=Profile%20views&color=green&style=flat" alt="miriamtorcal" /> </p> 
 
@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on [Object Detection in Edge Computing Devices](https://github.com/mtc1003/TF_Keras_TFG) </!-->
 
-- 🌱 I’m currently learning **Web Design,NO-SQL,etc.**
+- 🌱 I’m currently learning **Big Data,NO-SQL,Machine Learning,PowerBI,Qlik,Tableau,etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

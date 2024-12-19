@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Miriam </h1>
-<h3 align="center">Currently I am Software FullStack Developer and Big Data Student</h3>
+<h3 align="center">Currently I am Software FullStack Developer and Data Scientist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miriamtorcal&label=Profile%20views&color=green&style=flat" alt="miriamtorcal" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miriamtorcal" alt="miriamtorcal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/miriroa99" target="blank"><img src="https://img.shields.io/twitter/follow/miriroa99?logo=twitter&style=social" alt="miriroa99" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/miriroa99" target="blank"><img src="https://img.shields.io/twitter/follow/miriroa99?logo=twitter&style=social" alt="miriroa99" /></a> </p> </!-->
 
 <!-- - 🔭 I’m currently working on [Object Detection in Edge Computing Devices](https://github.com/mtc1003/TF_Keras_TFG) </!-->
 
 - 🌱 I’m currently learning **Big Data,NO-SQL,Machine Learning,PowerBI,Qlik,Tableau,etc.**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/miriroa99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miriroa99" height="30" width="40" /></a>
-</p>
+</p> </!-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspbrerry" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://laravel.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> </a><a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 

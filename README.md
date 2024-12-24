@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miriamtorcal&label=Profile%20views&color=green&style=flat" alt="miriamtorcal" /> </p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miriamtorcal" alt="miriamtorcal" /></a> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/miriroa99" target="blank"><img src="https://img.shields.io/twitter/follow/miriroa99?logo=twitter&style=social" alt="miriroa99" /></a> </p> </!-->
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miriamtorcal&title=Experience,Commits,Issues,PullRequest,Repositories" alt="miriamtorcal" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [Object Detection in Edge Computing Devices](https://github.com/mtc1003/TF_Keras_TFG) </!-->
 
-- 🌱 I’m currently learning **Big Data,NO-SQL,Machine Learning,PowerBI,Qlik,Tableau,etc.**
+- 🌱 I’m currently learning **NO-SQL,Machine Learning and Web Scraping.**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/miriroa99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miriroa99" height="30" width="40" /></a>
 </p> </!-->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -62,4 +59,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miriamtorcal&" alt="miriamtorcal" /></p>
 
 
-It's dangerous to go alone take Copilot :D
+⚔️ It's dangerous to go alone take Copilot :D
